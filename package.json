@@ -1,0 +1,27 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "This is a first reposotry on which Alicja would learn GIT. xd xd xd",
+  "main": "hello_world.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aklojzy/hello_world.git"
+  },
+  "keywords": [
+    "brew",
+    "update"
+  ],
+  "author": "aklojzy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aklojzy/hello_world/issues"
+  },
+  "homepage": "https://github.com/aklojzy/hello_world#readme"
+}
